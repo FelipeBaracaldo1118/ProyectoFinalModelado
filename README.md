@@ -1,7 +1,26 @@
 # ProyectoFinalModelado
 
 
+# Requerimientos 
+Estas librerías son necesarias para:
 
+numpy: operaciones y cálculos numéricos.
+matplotlib: graficar en 2D y 3D usando mpl_toolkits.mplot3d.
+scipy: usar el método minimize del módulo scipy.optimize.
+
+Estructura del Código
+
+El proyecto contiene dos funciones principales:
+
+cubic_spline(x, y): Esta función implementa el cálculo de los coeficientes del spline cúbico, generando coeficientes 
+𝑏
+b, 
+𝑐
+c, y 
+𝑑
+d para cada intervalo de puntos.
+
+evaluate_spline(x, y, b, c, d, x_eval): Evalúa el spline cúbico en los puntos de x_eval, utilizando los coeficientes generados en la función anterior para interpolar los valores.
 
 
 
