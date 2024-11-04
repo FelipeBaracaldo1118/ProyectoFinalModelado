@@ -27,7 +27,6 @@ b) Determine la altura ‘z’ del balón cuando cruzó la barrera. La barrera s
 
 c) Determine la desviación máxima (dx/dt=0) que hace que el gol sea considerado como “un desafío a la física”.
 
-Rúbrica: literal a (10 puntos), literal b (7 puntos), literal c (8 puntos)
 
 Referencias: La ciencia del Gol (1’49» a 2’50») video de Discovery Channel, .
 El gol ‘imposible’ de Roberto Carlos a Francia cumple 20 años. El Comercio, Perú. 03.06.2017.
